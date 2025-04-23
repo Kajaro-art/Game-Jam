@@ -1,16 +1,13 @@
 fileFormatVersion: 2
-guid: aebcdfd14cf9f51448cd924758403016
+guid: e9096d8d7ffa07b459cbb8a2ec165b18
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2078647193164896060
-    second: 7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_0
+      213: -1470513748000149563
+    second: Untitled_Artwork-_2__0
   - first:
-      213: -6263863327686721654
-    second: 7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_1
-  - first:
-      213: -6613748013833736264
-    second: 7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_2
+      213: 6793032414172866766
+    second: Untitled_Artwork-_2__1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -57,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 200
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,71 +99,62 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_0
+      name: Untitled_Artwork-_2__0
       rect:
         serializedVersion: 2
-        x: 129
-        y: 197
-        width: 368
-        height: 368
+        x: 88
+        y: 76
+        width: 263
+        height: 344
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c82b0614692723e0800000000000000
-      internalID: -2078647193164896060
+      spriteID: 5cf6f1d898fa79be0800000000000000
+      internalID: -1470513748000149563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_1
+      name: Untitled_Artwork-_2__1
       rect:
         serializedVersion: 2
-        x: 505
-        y: 182
-        width: 123
-        height: 70
+        x: 798
+        y: 89
+        width: 530
+        height: 331
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8ff2a7ad794219a0800000000000000
-      internalID: -6263863327686721654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_2
-      rect:
-        serializedVersion: 2
-        x: 717
-        y: 232
-        width: 461
-        height: 311
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8bfae79f83f3734a0800000000000000
-      internalID: -6613748013833736264
+      spriteID: ec8ec7a5df2b54e50800000000000000
+      internalID: 6793032414172866766
       vertices: []
       indices: 
       edges: []
@@ -175,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a1ba847c1e0aece4ab7320f384da3583
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -185,9 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_0: -2078647193164896060
-      7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_1: -6263863327686721654
-      7F66708E-7B84-40F1-B8CA-04B54BC73E0F (1)_2: -6613748013833736264
+      Untitled_Artwork-_2__0: -1470513748000149563
+      Untitled_Artwork-_2__1: 6793032414172866766
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

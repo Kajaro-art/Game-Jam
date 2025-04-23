@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2a3283a6fdf7e52409d17f105de97ba1
+guid: 0ac61dd046399344e8fa146fa585b8d3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6595424525424048272
-    second: Untitled_Artwork_1 (1)_0
+      213: 853781056700687655
+    second: e 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 123.8
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Untitled_Artwork_1 (1)_0
+      name: e 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1
-        width: 4586
-        height: 2852
+        x: 27
+        y: 670
+        width: 923
+        height: 530
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 077433396585874a0800000000000000
-      internalID: -6595424525424048272
+      spriteID: 7252a98f85d39db00800000000000000
+      internalID: 853781056700687655
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Untitled_Artwork_1 (1)_0: -6595424525424048272
+      e 1_0: 853781056700687655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
